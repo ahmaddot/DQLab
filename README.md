@@ -13,6 +13,42 @@
 
 <a href="https://academy.dqlab.id/certificate/pdf/DQLABPRJC5HRTGFD" target="_blank">Unduh</a> 
 
+<b>3. Data Wrangling Python</b>
+
+<a href="https://academy.dqlab.id/certificate/pdf/DQLABDTWP1RIIVSM" target="_blank">Unduh</a> 
+
+<b>4. Introduction to Data Science with Python</b>
+
+<a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1FBKWQL" target="_blank">Unduh</a> 
+
+<b>5. Python Fundamental for Data Science</b>
+
+<a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1RSIURL" target="_blank">Unduh</a> 
+
+<b>6. Exploratory Data Analysis with Python for Beginner</b>
+
+<a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1SHKFCH" target="_blank">Unduh</a> 
+
+<b>7. Python for Data Professional Beginner Part-1</b>
+
+<a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1AQGCTU" target="_blank">Unduh</a> 
+
+<b>8. Python for Data Professional Beginner Part-2</b>
+
+<a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1UJQRSB" target="_blank">Unduh</a> 
+
+<b>9. Python for Data Professional Beginner Part-3</b>
+
+<a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1UERHOU" target="_blank">Unduh</a> 
+
+<b>10. Basic Feature Discovering for Machine Learning</b>
+
+<a href="https://academy.dqlab.id/certificate/pdf/DQLABFATPYFVOWEN" target="_blank">Unduh</a> 
+
+
+
+
+
 <h1>Certificate List DQLab SQL</h1>
 
 ![image](https://user-images.githubusercontent.com/68532033/89724252-c661c800-da2a-11ea-83f8-97393823758a.png)
