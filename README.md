@@ -29,3 +29,14 @@
 
 <a href="https://academy.dqlab.id/certificate/pdf/DQLABPRJ10FBNEGF" target="_blank">Unduh</a> 
 
+<b>4. Fundamental SQL Using SELECT Statement</b>
+
+<a href="https://academy.dqlab.id/certificate/pdf/DQLABPRJ10FBNEGF" target="_blank">Unduh</a> 
+
+<b>5. Fundamental SQL Using INNER JOIN and UNION</b>
+
+<a href="https://academy.dqlab.id/certificate/pdf/DQLABPRJ10FBNEGF" target="_blank">Unduh</a> 
+
+<b>6. Fundamental SQL Using FUNCTION and GROUP BY</b>
+
+<a href="https://academy.dqlab.id/certificate/pdf/DQLABPRJ10FBNEGF" target="_blank">Unduh</a> 
